@@ -128,7 +128,7 @@ Live Caption / Voice
 
 ⚙️ Installation
 Clone Repository
-git clone https://github.com/yourusername/signbridge.git
+git clone (https://github.com/Vimalrajvr46/Sign-bridge-.git)
 cd signbridge
 Backend
 cd backend
