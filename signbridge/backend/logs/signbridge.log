@@ -1,0 +1,7 @@
+2026-07-27 20:33:48,459 | INFO | signbridge | Starting SignBridge API v1.0.0
+2026-07-27 20:53:26,192 | INFO | signbridge | Starting SignBridge API v1.0.0
+2026-07-27 20:53:26,194 | INFO | signbridge | Shutting down SignBridge
+2026-07-27 21:02:39,037 | INFO | signbridge | Starting SignBridge API v1.0.0
+2026-07-27 21:05:31,918 | INFO | websocket_manager | Room ERR1MP7Z closed (empty)
+2026-07-27 21:08:24,251 | WARNING | sign_detection | MediaPipe unavailable (DLL load failed while importing cv2: An Application Control policy has blocked this file.). Using landmark fallback.
+2026-07-27 21:08:24,259 | INFO | websocket_manager | Room TO4VRARI closed (empty)
